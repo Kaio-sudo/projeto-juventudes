@@ -1,6 +1,6 @@
 # projeto juventudes
 
-# Plano Estratégico: Combate à Desinformação Corporativa & Regras Fantasma
+## Plano Estratégico: Combate à Desinformação Corporativa & Regras Fantasma
 
 ## Objetivo
 Reduzir o atrito na busca por informações oficiais, eliminar a dependência da "rádio-corredor" e neutralizar "regras fantasma" entre jovens profissionais por meio de soluções digitais práticas, criativas e de baixo custo.
